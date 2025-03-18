@@ -1,4 +1,5 @@
 # python-statistics-analization-playground
+python:3.11を使用
 
 ## データセットの調達
 ### kaggle（サインアップの必要あり）
